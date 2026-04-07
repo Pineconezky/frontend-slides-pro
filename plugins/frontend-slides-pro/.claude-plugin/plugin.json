@@ -1,0 +1,11 @@
+{
+  "name": "frontend-slides-pro",
+  "version": "2.0.0",
+  "description": "Zero-dependency HTML presentation generator with 12 curated visual themes, advanced image editor (placement, compression, delete), IndexedDB storage, PPT conversion, and anti-AI-slop design philosophy.",
+  "author": {
+    "name": "zhaikeyu",
+    "url": "https://github.com/zhaikeyu"
+  },
+  "license": "MIT",
+  "keywords": ["presentations", "slides", "html", "design", "powerpoint", "animations", "editor", "image-upload"]
+}

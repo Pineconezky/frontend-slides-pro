@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "frontend-slides-pro",
+  "description": "Create stunning, animation-rich HTML presentations with advanced inline editing, image management, and IndexedDB storage.",
+  "owner": {
+    "name": "zhaikeyu",
+    "url": "https://github.com/zhaikeyu"
+  },
+  "plugins": [
+    {
+      "name": "frontend-slides-pro",
+      "description": "Zero-dependency HTML presentation generator with 12 curated visual themes, advanced image editor (placement, compression, delete), IndexedDB storage, PPT conversion, and anti-AI-slop design philosophy.",
+      "source": "./plugins/frontend-slides-pro",
+      "category": "productivity",
+      "tags": ["presentations", "slides", "html", "design", "powerpoint", "editor"]
+    }
+  ]
+}
